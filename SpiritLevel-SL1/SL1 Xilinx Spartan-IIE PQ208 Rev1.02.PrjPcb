@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=B3547D87-EE94-403C-B141-085F43CD3D42
+VaultGUID=F90614E3-3584-4A7E-A71C-10D84E6A4BFD
+ReleaseVaultName=December, Inc.
+ItemGUID=B3547D87-EE94-403C-B141-085F43CD3D42
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -988,6 +991,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1217,6 +1222,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
