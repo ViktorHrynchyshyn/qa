@@ -36,10 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=0F953659-21CB-4AC1-A6DD-C3571E3DD513
-VaultGUID=5FEB4F4F-4DCF-4A40-9997-3B1272D9349C
-ReleaseVaultName=Ansys Developement
-ItemGUID=0F953659-21CB-4AC1-A6DD-C3571E3DD513
+ManagedProjectGUID=DBA08FF6-528B-4812-B6F5-8CE96A654F62
+VaultGUID=ADB16956-0AB2-43FB-98BC-33F86D47F721
+ReleaseVaultName=June Evil copr
+ItemGUID=DBA08FF6-528B-4812-B6F5-8CE96A654F62
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -517,6 +517,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1169,6 +1174,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
